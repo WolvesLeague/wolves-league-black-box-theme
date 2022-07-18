@@ -1,0 +1,24 @@
+{
+  "name": "Wolves League Dark",
+  "use-theme-colors": false,
+  "foreground-color": "#F5F3F4",
+  "background-color": "#1D1F20",
+  "palette": [
+    "#707070",
+    "#FF0000",
+    "#29D39B",
+    "#FF5252",
+    "#FD6D6D",
+    "#FF5252",
+    "#E9B960",
+    "#ADACAD",
+    "#800000",
+    "#BF0000",
+    "#259770",
+    "#FF5252",
+    "#FD6D6D",
+    "#EDC891",
+    "#707070",
+    "#F5F3F4"
+  ]
+}
